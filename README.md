@@ -38,25 +38,6 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
-
-### 📬 Connect with Me
-<p align="center">
-  <a href="https://t.me/samuel_minouri">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:samuelminouri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/samuel-minouri-75852a32b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SamuelMinouri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&color=1AF7E0&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;ML+%26+Deep+Learning+Explorer;Telegram+Bot+Developer;AI+Automation+Engineer)](https://git.io/typing-svg)
 
